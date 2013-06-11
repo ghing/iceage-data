@@ -1,0 +1,53 @@
+name,official_name,url,address,geo_longitude,geo_latitude,geo_accuracy,address_notes
+JEFFERSON COUNTY JAIL ,Jefferson County Justice Center,https://www.ice.gov/detention-facilities/facilities/jeffeil.htm,"911 Casey Ave.
+Mount Vernon, Illinois 62864",-88.9025347755102,38.314552,house,
+CHICAGO HOLD ROOM ,Chicago Hold Room,,"101 W. Congress Parkway, Chicago, IL 60605",-87.63072,41.875702,,Unsure about where this is exactly.  We're assuming US Citizenship and Immigration Services main office
+"DODGE COUNTY JAIL, JUNEAU ",Dodge Detention Facility,https://www.ice.gov/detention-facilities/facilities/dodgewi.htm,"141 N. Main Street
+Juneau, WI 53039",-88.704349,43.407029,,
+MCHENRY COUNTY SHERIFF'S ,McHenry County Adult Correctional Facility,https://www.ice.gov/detention-facilities/facilities/mchenil.htm,"2200 N. Seminary Ave.
+Woodstock, IL 60098",-88.4431167,42.3369975,primary,
+BROADVIEW SERVICE STAGING ,Broadview Detention Center,,"1930 Beach Street, Broadview IL 60155",-87.865779,41.868023,,
+TRI-COUNTY JAIL ,Tri-County Detention Center,https://www.ice.gov/detention-facilities/facilities/tricoil.htm,"1026 Shawnee College Road
+Ullin, IL 62992",-89.158456,37.271579,,
+KENOSHA COUNTY JAIL ,Kenosha County Detention Center,https://www.ice.gov/detention-facilities/facilities/kenoswi.htm,"4777 88th Street
+Kenosha, WI 53144",-87.914778,42.592727,,
+JENA/LASALLE DETENTION FACILITY ,LaSalle Detention Facility,https://www.ice.gov/detention-facilities/facilities/jenadla.htm,"830 Pine Hill Road
+Jena, LA 71342",-92.150231,31.708769,,
+BOONE COUNTY JAIL ,Boone County Jail,https://www.ice.gov/detention-facilities/facilities/booneky.htm,"3020 Conrad Lane
+Burlington, KY 41005x",-84.721767,39.037277,,
+ELGIN POLICE DEPT. JAIL ,Elgin Police Department Holding Facility,http://www.cityofelgin.org/index.aspx?NID=834,"151 Douglas Ave.
+Elgin, IL 60120",-88.283878,42.039426,,
+RIO GRANDE VALLEY STAGING ,Willacy Immigration Detention Facility,,"1717 Zoy Street
+Harlingen, TX 78552
+",-97.715551,26.17809,,
+PORT ISABEL SPC ,Port Isabel Service Detention Center,https://www.ice.gov/detention-facilities/facilities/pic.htm,"27991 Buena Vista Blvd. 
+Los Fresnos, TX 78566",-97.348784,26.090495,,
+OTERO CO PROCESSING CENTER ,Otero County Processing Center,,"26 McGregor Range Road Chaparral, New Mexico",-106.429722,32.039167,,
+GRAYSON COUNTY DET. CENTER ,Grayson County Detention Center,http://www.gcdetention.com/,"320 Shaw Station Road
+Leitchfield, KY 
+
+",-86.254143,37.49049,,
+JUVENILE FACILITY/HEARTLAND ,,http://www.heartlandalliance.org/whatwedo/our-programs/directory/international-youth-center.html,"208 S. LaSalle Street, Suite 1818
+Chicago, IL 60604
+
+",-87.627979,41.740034,,Address is just of Heartland's headquarters because the actual address is not public
+ROCK ISLAND HOLD ROOM ,Rock Island Hold Room,"http://www.co.rock-island.il.us/Sheriff/InmateServices/
+
+","1317 3rd Ave, Rock Island, IL 61201
+
+",-90.58164,41.508681,,
+ROCK ISLAND COUNTY JAIL ,Rock Island County Jail,http://www.co.rock-island.il.us/Sheriff/InmateServices/,"1317 3rd Ave, Rock Island, IL 61201
+
+",-90.58164,41.508681,,
+SANGAMON COUNTY JAIL ,Sangamon County Detention Facility,http://sheriff.co.sangamon.il.us/Divisions/Corrections.aspx,"1 Sheriffs Plaza, Springfield, IL 62701",-89.649874,39.799492,,
+INDIANAPOLIS HOLD ROOM ,Indianapolis Hold Room,,"950 N. Meridian Plaza, Room 400
+Indianapolis, IN, 46204",-86.157572,39.780525,,
+HEARTLAND INT CHILD CENTER-BEVERLY ,The International Children's Center-Beverly,http://www.heartlandalliance.org/whatwedo/our-programs/directory/international-childrens.html,,-87.68,41.71,,"Lat/Lng are just the centroid of Beverly since the address of this facility isn't available
+"
+INTERNATIONAL YOUTH CENTER ,The International Youth Center,http://www.heartlandalliance.org/whatwedo/our-programs/directory/international-youth-center.html,"208 S. LaSalle Street, Suite 1818
+Chicago, IL 60604",-87.627979,41.740034,,Address is just of Heartland's headquarters because the actual address is not public
+EL PASO SPC ,El Paso Processing Center,https://www.ice.gov/detention-facilities/facilities/epc.htm,"8915 Montana Ave.
+El Paso, TX 79925",-106.369179152701,31.7934188721657,house,
+"DODGE CORR INSTITUTE, WAU ",Dodge Correctional Institution ,http://doc.wi.gov/families-visitors/find-facility/dodge-correctional-institution,"1 W. Lincoln St.
+Waupun, WI 53963-0661 ",-88.734848,43.626897,,
+DAVID & MARGARET HOME ,David & Margaret Youth and Family Services,http://www.davidandmargaret.org/,"1350 3rd St  La Verne, CA 91750",-117.784869873026,34.1042238745427,house,
